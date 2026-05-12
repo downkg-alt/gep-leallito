@@ -1,0 +1,29 @@
+# =========================
+# Log fájlok - soha ne kerüljenek fel!
+# =========================
+logs/
+*.log
+*.csv
+
+# =========================
+# Éles konfigurációs fájlok - érzékeny adatok!
+# =========================
+config/gepek.txt
+config/kivetelek.txt
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =========================
+# PowerShell
+# =========================
+*.ps1xml
+
+# =========================
+# Egyéb
+# =========================
+.DS_Store
