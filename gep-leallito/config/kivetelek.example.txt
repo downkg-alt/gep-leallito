@@ -1,7 +1,0 @@
-# Kivételek listája – ezeket a gépeket a script kihagyja
-# Ez egy PÉLDAFÁJL. Az éles fájl neve: kivetelek.txt
-# A kivetelek.txt szerepel a .gitignore-ban, ne commitold!
-
-SZERVER-APP-01
-SAJAT-GEPEM
-DC-01
