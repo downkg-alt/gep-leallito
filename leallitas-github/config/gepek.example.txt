@@ -1,8 +1,0 @@
-# Gépnevek listája – soronként egy gépnév
-# Ez egy PÉLDAFÁJL. Az éles fájl neve: gepek.txt
-# A gepek.txt szerepel a .gitignore-ban, ne commitold!
-
-IRODA-PC-01
-IRODA-PC-02
-IRODA-PC-03
-SZERVER-APP-01
